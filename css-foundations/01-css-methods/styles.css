@@ -1,0 +1,8 @@
+.header-box {
+	font-size: 32px;
+	background: red;
+	display: grid;
+	place-items: center;
+	color: white;
+}
+
